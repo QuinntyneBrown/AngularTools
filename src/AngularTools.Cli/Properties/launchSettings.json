@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AngularTools.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "-d C:\\projects\\Avengers\\src\\Avengers.App\\src\\app\\@shared"
+    }
+  }
+}

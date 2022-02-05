@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Allegi.SharedKernal", "src\Allegi.SharedKernal\Allegi.SharedKernal.csproj", "{66452802-B8FA-4706-98ED-2A1226D6783D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7EE44DFA-A6AA-4C46-9801-2A78D3783B15}"
+	ProjectSection(SolutionItems) = preProject
+		cliSettings.json = cliSettings.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1B9983F4-0ABC-4FA8-8CA0-851C197FEE16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularTools.Cli", "src\AngularTools.Cli\AngularTools.Cli.csproj", "{D61D8018-DD3A-44D3-AFBF-DCE627B716D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66452802-B8FA-4706-98ED-2A1226D6783D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66452802-B8FA-4706-98ED-2A1226D6783D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66452802-B8FA-4706-98ED-2A1226D6783D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66452802-B8FA-4706-98ED-2A1226D6783D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61D8018-DD3A-44D3-AFBF-DCE627B716D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61D8018-DD3A-44D3-AFBF-DCE627B716D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61D8018-DD3A-44D3-AFBF-DCE627B716D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61D8018-DD3A-44D3-AFBF-DCE627B716D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66452802-B8FA-4706-98ED-2A1226D6783D} = {1B9983F4-0ABC-4FA8-8CA0-851C197FEE16}
+		{D61D8018-DD3A-44D3-AFBF-DCE627B716D4} = {1B9983F4-0ABC-4FA8-8CA0-851C197FEE16}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86857085-5F6A-4E08-9A15-764E4634F906}
+	EndGlobalSection
+EndGlobal

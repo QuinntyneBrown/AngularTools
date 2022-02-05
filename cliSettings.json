@@ -1,0 +1,9 @@
+{ 
+  "Projects": "",
+  "DatabaseConnectionPropertyKey": "",
+  "DatabaseSettingsKey": "",
+  "SolutionName": "AngularTools.sln",
+  "RootNamespace": "AngularTools",
+  "SourceFolder": "src",
+  "TestFolder": "test"
+}
